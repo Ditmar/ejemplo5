@@ -1,0 +1,15 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Todo proyect",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ditmar",
+  "license": "ISC"
+}
